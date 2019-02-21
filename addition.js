@@ -1,4 +1,6 @@
 // Dont need a shebag here as going to tell npm what to run the file with
+// Exploration of npm scripts based on this great intro:
+// https://medium.freecodecamp.org/introduction-to-npm-scripts-1dbb2ae01633
 
 function add(a, b) {
   return parseInt(a) + parseInt(b);
